@@ -1,4 +1,4 @@
-# Hello World Omnibus: 100 Languages
+# Hello World Compilation: 100 Languages
 
 ![Languages](https://img.shields.io/badge/Languages-100-blue.svg)
 ![Build](https://img.shields.io/badge/Build-Auto--Generated-green.svg)
@@ -41,6 +41,7 @@ To run every single file in this repo, you would technically need:
     ...and about 85 other toolchains.
 
 (A Docker container solution is recommended for execution).
+
 📜 License
 
 This project is open source and available under the MIT License.
