@@ -26,7 +26,6 @@ The repository is organized as a flat list of files for easy browsing. File exte
 Plaintext
 
 .
-├── generate_top_100.py    # The automation script
 ├── README.md              # This documentation
 ├── python_hello.py
 ├── c_hello.c
